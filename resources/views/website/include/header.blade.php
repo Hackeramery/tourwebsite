@@ -34,13 +34,8 @@
     <ul>
     <li class="has-child-menu">
     <a href="javascript:void(0)">Home</a>
-    <i class="fl flaticon-plus">+</i>
-    <ul class="sub-menu">
-    <li><a href="index.html">Home Style 1</a></li>
-    <li><a href="index2.html">Home Style 2</a></li>
-    <li><a href="index3.html">Home Style 3</a></li>
-    <li><a href="index4.html">Home Style 4</a></li>
-    </ul>
+  
+ 
     </li>
     <li><a href="about.html">About Us</a></li>
     <li class="has-child-menu">
@@ -81,7 +76,7 @@
     <li><a href="404.html">404</a></li>
     </ul>
     </li>
-    <li><a href="contact.html">Contact Us</a></li>
+    <li><a href="{{route('login')}}">Login</a></li>
     </ul>
     <div class="inner-contact-options d-xl-none">
     <div class="contact-box-inner"><i class="bi bi-telephone-fill"></i> <a href="tel:+17632275032">+1 763-227-5032</a></div>

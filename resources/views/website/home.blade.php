@@ -11,7 +11,7 @@
     </div>
     <div class="hero-content-bg">
     <div class="hero-content position-relative">
-    <h2 class="hero-title">Travel & <span>Adventure</span></h2>
+    <h2 class="hero-title">ISLAH Travel Agency & <span>Adventure</span></h2>
     <p>Sed convallis sit amet leo quis feugiat. Nunc interdum mollis facilisis. feugi
     Donec id the urna aliquet, suscipit turpis ut Donec id urna aliquet, suscipit turpis ut, facilisis purus.Sed convallis sit amet leo quis .</p>
     <div class="hero-btns">
